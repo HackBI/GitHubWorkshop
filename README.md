@@ -29,3 +29,5 @@ Create a repository, make changes, and put them on GitHub. Make a new branch and
 ## Resources for Further Learning
 * git documentation - https://git-scm.com/docs
 * GitHub Guides - https://guides.github.com/
+* Atlassian git tutorials - https://www.atlassian.com/git/tutorials
+    * While these tutorials use Bitbucket (a GitHub alternative), they are super useful for anyone looking to learn more on git.
