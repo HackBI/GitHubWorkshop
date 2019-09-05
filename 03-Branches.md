@@ -13,3 +13,8 @@ To create a branch and switch to it, type `git checkout -b <branch_name>`. You c
 
 ## Make changes and put them on GitHub
 Now, make some changes. Change a file that already exists, add a new file, even delete a file. Once you've done that, `git add` and `git commit` your files, and finally, `git push` them. If you're pushing changes from a branch GitHub doesn't know exists, you'll get an error message which will tell you to type `git push --set-upstream origin <branch_name>`.
+
+## Look at your branch on GitHub
+Now that you've made changes on a different branch and pushed them to GitHub, you can go look at them on the website. To switch to your branch on GitHub, click "branch" above where it shows all of the files and click on the name of your branch.
+
+![switch to your branch](images/switch_to_branch.JPG)
